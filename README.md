@@ -36,7 +36,7 @@ Tipos de Diabetes:
 - Obesity 1.Yes, 2.No.
 - Class 1.Positive, 2.Negative.
 
-Total de registros: 520
-Total de atributos: 17
+- Total de registros: 520
+- Total de atributos: 17
 
 *Fonte: https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset*
