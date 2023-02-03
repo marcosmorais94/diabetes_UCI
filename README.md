@@ -19,25 +19,30 @@ Tipos de Diabetes:
 
 ### Dicionário de Dados
 
-- Age 1.20-65
-- Sex 1. Male, 2.Female
-- Polyuria 1.Yes, 2.No.
-- Polydipsia 1.Yes, 2.No.
-- sudden weight loss 1.Yes, 2.No.
-- Polyphagia 1.Yes, 2.No.
-- Genital thrush 1.Yes, 2.No.
-- visual blurring 1.Yes, 2.No.
-- Itching 1.Yes, 2.No.
-- Irritability 1.Yes, 2.No.
-- delayed healing 1.Yes, 2.No.
-- partial paresis 1.Yes, 2.No.
-- muscle stiness 1.Yes, 2.No.
-- Alopecia 1.Yes, 2.No.
-- Obesity 1.Yes, 2.No.
-- Class 1.Positive, 2.Negative.
+| Atributo  | Descrição | Métrica |
+| ------------- | ------------- |
+| Age  | Idade  | 20-65  |
+| Sex  | Gênero  | Male / Female  |
+| Polyuria  | Urina constante  | Y / N  |
+| Polydipsia  | Sede constante, mesmo após beber muita água  |  Y / N  |
+| sudden weight loss  | Aparente perda de peso  | Y / N  |
+| Polyphagia  | Comer em excesso devido a fome excessiva ou apetite elevado  | Y / N  |
+| Genital thrush  | Candidíase genital  | Y / N  |
+| visual blurring  | Confusão visual  | Y / N  |
+| Itching  | Sensação de coceira no corpo constante  | Y / N  |
+| Irritability  | Irritação  | Y / N  |
+| delayed healing  | Demora para curar ferimentos na pele  | Y / N  |
+| partial paresis  | Fraqueza muscular  | Y / N  |
+| muscle stiness  | Atrofia muscular | Y / N  |
+| Alopecia  | Queda de cabelo (Alopecia)  | Y / N  |
+| Obesity  | Obesidade  | Y / N  |
+| Class  | Classificação se é ou não diabético  | Positive / Negative  |
 
 Informações sobre o dataset:
-- Total de registros: 520
-- Total de atributos: 17
+
+|  |  |
+| ------------- | ------------- |
+| Total de registros  | 520|
+| Total de atributos  | 17 |
 
 *Fonte: https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset*
