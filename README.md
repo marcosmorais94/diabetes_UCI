@@ -20,7 +20,7 @@ Tipos de Diabetes:
 ### Dicionário de Dados
 
 | Atributo  | Descrição | Métrica |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Age  | Idade  | 20-65  |
 | Sex  | Gênero  | Male / Female  |
 | Polyuria  | Urina constante  | Y / N  |
